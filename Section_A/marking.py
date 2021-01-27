@@ -3,6 +3,9 @@
 #   e.g
 #   var_a, var_b = 10, 15
 #
+#   Even though you can do literal assignments of diffent types in one line, it's advisible to only do it for one data type for the sake of readability.
+# 
+#
 # 2. An indentation block is expected after every function definition. Make sure there's logic code for those functions.
 #    If the intention was to have empty fumctions, then make sure you pass them. google how to define empty functions.
 
